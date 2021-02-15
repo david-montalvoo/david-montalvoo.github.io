@@ -10,7 +10,7 @@ github_username: david-montalvoo
 disqus_username:
 # Build settings
 markdown: kramdown
-theme: minimalist
+theme: minima
 
 permalink: /:year/:month/:day/:title/
 
